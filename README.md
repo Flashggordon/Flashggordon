@@ -12,7 +12,7 @@ After taking a huge leap from the career I knew in hospitality I have since take
 
 [![Codewars Badge](https://www.codewars.com/users/Flashggordon/badges/large)](https://www.codewars.com/users/Flashggordon)
 
-https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F6%2F6a%2FJavaScript-logo.png%2F800px-JavaScript-logo.png&tbnid=gnVTl954NT87pM&vet=12ahUKEwjc-bahh9aCAxWfTKQEHfopDeMQMygBegQIARB2..i&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AJavaScript-logo.png&docid=VbcxYzsOQ-AdOM&w=800&h=800&q=javascript%20logo&client=safari&ved=2ahUKEwjc-bahh9aCAxWfTKQEHfopDeMQMygBegQIARB2
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.10.1/devicon.min.css">
 
 <!---
 Flashggordon/Flashggordon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
