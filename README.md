@@ -6,6 +6,7 @@
 -.
 
 https://www.codewars.com/users/Flashggordon/following
+[![Codewars Badge](https://www.codewars.com/users/Flashgordon/badges/large)](https://www.codewars.com/users/Flashgordon)
 <!---
 Flashggordon/Flashggordon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
