@@ -1,4 +1,4 @@
-HI THERE IM GEORGE 
+HI THERE I'M GEORGE 
 - 👀 I’m interested in ...Personal projects, Cycling, Puzzles, Fighting Crime  
 - 🌱 I have officially been accepted to The School Of Code!!! 
 - 💞️ I’m looking to collaborate on ...Open source projects, Creating anything in a team!!
