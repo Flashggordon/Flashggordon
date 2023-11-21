@@ -14,7 +14,7 @@ After taking a huge leap from the career I knew in hospitality I have since take
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flashggordon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Js Logo](https://img.shields.io/badge/javascripthttps://img.shields.io/badge/Html)
+[![Js Logo]([https://img.shields.io/badge/javascripthttps://img.shields.io/badge/Html](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freeiconspng.com%2Fimages%2Fhtml5-icon&psig=AOvVaw0JzpgAfuVBNJBoIItIfsNk&ust=1700690813550000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOien5CN1oIDFQAAAAAdAAAAABAE)https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freeiconspng.com%2Fimages%2Fhtml5-icon&psig=AOvVaw0JzpgAfuVBNJBoIItIfsNk&ust=1700690813550000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCOien5CN1oIDFQAAAAAdAAAAABAE)
 
 
 Flashggordon/Flashggordon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
