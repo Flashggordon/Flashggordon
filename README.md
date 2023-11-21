@@ -14,6 +14,7 @@ After taking a huge leap from the career I knew in hospitality I have since take
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flashggordon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+https://img.shields.io/badge/javascript
 
 
 Flashggordon/Flashggordon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
