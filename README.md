@@ -5,6 +5,7 @@
 - 📫 How to reach me ... ..georgegordon5@gmail.com
 -.
 
+https://www.codewars.com/users/Flashggordon/following
 <!---
 Flashggordon/Flashggordon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
