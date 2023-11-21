@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Flashggordon
-- 👀 I’m interested in ...travel
+
+- 👀 I’m interested in ...Personal projects, Cycling, Puzzles, Fighting Crime  
 - 🌱 I have officially been accepted to the School of Code!!! 
-- 💞️ I’m looking to collaborate on ...anything
+- 💞️ I’m looking to collaborate on ...Open source projects, Creating anything in a team!!
 - 📫 How to reach me ... ..georgegordon5@gmail.com
 -.
 
