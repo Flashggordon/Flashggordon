@@ -12,8 +12,7 @@ After taking a huge leap from the career I knew in hospitality I have since take
 
 [![Codewars Badge](https://www.codewars.com/users/Flashggordon/badges/large)](https://www.codewars.com/users/Flashggordon)
 
-![javascript](https://github.com/Flashggordon/Flashggordon/assets/117164117/d0b2d887-edd9-4843-878c-b325dac098fe))
-
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flashggordon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Flashggordon/Flashggordon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
