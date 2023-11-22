@@ -13,7 +13,7 @@ After taking a huge leap from the career I knew in hospitality I have since take
 [![Codewars Badge](https://www.codewars.com/users/Flashggordon/badges/large)](https://www.codewars.com/users/Flashggordon)
 <br>
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flashggordon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="60" height="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height ="60" /> 
