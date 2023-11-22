@@ -8,12 +8,9 @@ After taking a huge leap from the career I knew in hospitality I have since take
 - 💞️ I’m looking to collaborate on ...Open source projects, Creating anything in a team!!
 - 📫 How to reach me ... ..georgegordon5@gmail.com
   
-
-
 [![Codewars Badge](https://www.codewars.com/users/Flashggordon/badges/large)](https://www.codewars.com/users/Flashggordon)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flashggordon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" width="60" height="60" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60" height ="60" /> 
