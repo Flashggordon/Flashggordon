@@ -9,9 +9,9 @@ After taking a huge leap from the career I knew in hospitality I have since take
 - 📫 How to reach me ... ..georgegordon5@gmail.com
   
 
-<br>
+
 [![Codewars Badge](https://www.codewars.com/users/Flashggordon/badges/large)](https://www.codewars.com/users/Flashggordon)
-<br>
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Flashggordon&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
