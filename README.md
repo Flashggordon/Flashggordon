@@ -1,6 +1,6 @@
 HI THERE I'M GEORGE 
 
-After taking a huge leap from the career I knew in hospitality I have since taken my love for problem-solving to the School of Code. where I completed a number of solo and team-based projects, which have developed into a real love of building accessible applications.
+After taking a huge leap from the career I knew in hospitality I have since taken my love for problem-solving to the School of Code. where I completed a number of solo and team-based projects, which have developed into a real love of building accessible applications..
 
 
   
