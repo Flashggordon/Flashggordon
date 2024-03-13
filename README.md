@@ -6,7 +6,7 @@ After taking a huge leap from the career I knew in hospitality I have since take
   
 - 🌱 I have officially completed  The School Of Code!!! 
 - 💞️ Currently still working with our stakeholder on the BeyondBetter app !!
-- 📫 How to reach me ... georgegordon5@gmail.com
+- 📫 How to reach me ... georgegordon5@gmail.com.
   
 [![Codewars Badge](https://www.codewars.com/users/Flashggordon/badges/large)](https://www.codewars.com/users/Flashggordon)
 
