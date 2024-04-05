@@ -5,7 +5,7 @@ After taking a huge leap from the career I knew in hospitality I have since take
 
   
 - 🌱 I have officially graduated  The School Of Code!!
-- 💞️ Currently learning Drupal and building a community recipe app for my locals in the area. 
+- 💞️ Currently learning Drupal and building a community recipe app for my locals in the area..
 - 📫 How to reach me ... georgegordon5@gmail.com
   
 [![Codewars Badge](https://www.codewars.com/users/Flashggordon/badges/large)](https://www.codewars.com/users/Flashggordon)
