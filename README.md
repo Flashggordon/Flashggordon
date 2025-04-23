@@ -1,9 +1,10 @@
 HI THERE I'M GEORGE 
 
-After taking a huge leap from the career I knew in hospitality I have since taken my love for problem-solving to the School of Code. where I completed a number of solo and team-based projects, which have developed into a real love of building accessible applications.
+After taking a huge leap from the career I knew in hospitality, I have since taken my love for problem-solving to web development, where I completed a number of solo and team-based projects, which have developed into a real love of building accessible applications.
 
 
   
+-  First year in the world of development complete 
 - 🌱 I have officially graduated  The School Of Code!!
 - 💞️ Currently learning Drupal and building a community recipe app for my locals in the area.
 - 📫 How to reach me ... georgegordon5@gmail.com
