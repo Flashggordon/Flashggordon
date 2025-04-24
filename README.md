@@ -5,7 +5,7 @@ After taking a huge leap from the career I knew in hospitality, I have since tak
 
   
 -  First year in the world of web development complete 
-- 🌱 I have officially graduated from  The School Of Code!!
+- 🌱 Graduated from  The School Of Code!!
 - 💞️ Currently learning Drupal and building a community recipe app for my locals in the area.
 - 📫 How to reach me ... georgegordon5@gmail.com
   
